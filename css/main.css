@@ -51,32 +51,32 @@ a {
 
 .left {
 	background: url(../img/nav_gewinnspiel.png) no-repeat;
-	background-position: 0px 20px;
-	height: 90px;
-	width: 210px;
-	top: -42.8px;
+	width: 214px;
+	height: 60px;
+	top: -6px;
+	left: -50px;
 }
 
 .left:hover,
 .active_nav_gs {
-	background-position: 0px -48px;
-	height: 100px;
+	background-position: 0px -70px;
+	height: 60px;
 }
 
 
 .right {
 	background: url(../img/nav_buch.png) no-repeat;
-	background-position: 0px -10px;
-	height: 60px;
-	width: 289px;
-	left: 215px;
-	top: -17px;
+	background-position: -20px -25px;
+	height: 44px;
+	width: 270px;
+	left: 285px;
+	top: 5px;
 }
 
 .right:hover,
 .active_nav_autor,
 .active_nav_ve {
-	background-position: 0px -78px;
+	background-position: -20px -95px;
 }
 
 
@@ -97,8 +97,8 @@ a {
 	background: url(../img/button_mitmachen.png) no-repeat;
 	height: 65px;
 	width: 200px;
-	left: 204px;
-	top: 990px;
+	left: 116px;
+	top: 953px;
 }
 
 .mitmachen:hover {
@@ -108,16 +108,17 @@ a {
 	background: url(../img/button_teilen.png) no-repeat;
 	height: 71px;
 	width: 154px;
-	left: 441px;
-	top: 990px;
+	left: 321px;
+	top: 952px;
 }
 
 .teilen_buch {
 	background: url(../img/button_teilen.png) no-repeat;
-	height: 62px;
-	width: 149px;
-	left: 328px;
-	top: 903px;
+	position: absolute;
+	height: 50px;
+	width: 101px;
+	left: 647px;
+	top: 309px;
 }
 
 .box {
@@ -180,7 +181,7 @@ a {
 	text-align: center;
 	width: 810px;
 	cursor: pointer;
-	margin-top: 60px;
+	margin-top: 70px;
 	background: white;
 }
 
@@ -207,7 +208,7 @@ a {
 	font-size: 75%;
 	background: #FFFFFF;
 	margin: 0;
-	padding: 0px 40px;
+	padding: 10px 40px;
 	height: 80px;
 	color: #333333!important;
 	text-align: center;
@@ -226,26 +227,18 @@ a {
 
 .leseprobe {
 	background: url(../img/button_leseprobe.png) no-repeat;
-	height: 71px;
-	width: 165px;
+	height: 56px;
+	width: 170px;
 	left: 65px;
-	top: 990px;
+	top: 310px;
 	position: absolute;
 }
 
-.mehrbuch {
-	background: url(../img/button_buch.png) no-repeat;
+.buch_link {
+	background: url(../img/button_infos.png) no-repeat;
 	height: 71px;
-	width: 236px;
-	left: 255px;
-	top: 990px;
-	position: absolute;
-}
-.ebook {
-	background: url(../img/button_ebook.png) no-repeat;
-	height: 71px;
-	width: 242px;
-	left: 505px;
-	top: 990px;
+	width: 335px;
+	left: 270px;
+	top: 302px;;
 	position: absolute;
 }

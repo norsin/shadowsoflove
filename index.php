@@ -9,17 +9,17 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="viewport" content="width=640">
-        <title>Schräg verliebt</title>
-        <meta name="description" content="Schräg verliebt! Jetzt Fan werden und die skurrilsten Liebesgeschichten entdecken" />
+        <title>Shadows of Love</title>
+        <meta name="description" content="Shadows of Love - Jetzt Fan werden und ein Verwöhnpaket für sinnliche Stunden zu zweit gewinnen!" />
         <link rel="image_src" href="img/share.jpg">
-        <meta property="og:image" content="http://f-bilandia.de/luebbe/schraegverliebt/img/share.jpg"/>
-        <meta property="og:image:secure_url" content="https://f-bilandia.de/luebbe/schrageverliebt/img/share.jpg">
+        <meta property="og:image" content="http://f-bilandia.de/luebbe/shadowsoflove/img/share.jpg"/>
+        <meta property="og:image:secure_url" content="https://f-bilandia.de/luebbe/shadowsoflove/img/share.jpg">
         <meta property="og:image:type" content="image/jpg">
         <meta property="og:image:width" content="200">
         <meta property="og:image:height" content="200">
-        <meta property="og:title" content="Schräg verliebt"/>
-        <meta property="og:description" content="Schräg verliebt! Jetzt Fan werden und die skurrilsten Liebesgeschichten entdecken" />
-        <meta property="og:url" content="http://www.f-bilandia.de/luebbe/schraegverliebt/index.php"/>
+        <meta property="og:title" content="Shadows of Love"/>
+        <meta property="og:description" content="Lasst euch entführen – zu den geheimnisvollen Ufern der Leidenschaft, mit der neuen E-Book-Serie „Shadows of Love“ – Jetzt gewinnen!" />
+        <meta property="og:url" content="http://www.f-bilandia.de/luebbe/shadowsoflove/index.php"/>
         <link rel="stylesheet" type="text/css" media="screen and (min-width: 801px)" href="css/main.css">
         <link rel="stylesheet" type="text/css" media="screen and (max-width: 800px)" href="css/mobile.css">
         <script type="text/javascript" src="js/vendor/jquery-1.8.2.min.js"></script>
@@ -30,8 +30,8 @@
         //Get PHP SDK
         require_once 'facebook.php';
         // Create our Application instance.
-        $facebook = new Facebook( array('appId' => '604049396298958',
-        'secret' => 'c7db20e3c5dcf9f302bffde63a742285', 'cookie' => true, ));
+        $facebook = new Facebook( array('appId' => '417645798369157',
+        'secret' => '232420f2a49e3fb57ba8b9d911b8f219', 'cookie' => true, ));
         $signed_request = $facebook -> getSignedRequest();
         $like_status = $signed_request["page"]["liked"];
         if ($like_status == "1") {
@@ -42,7 +42,7 @@
         <script type="text/javascript">
             window.fbAsyncInit = function() {
                 //Your app details here
-                FB.init({appId: '604049396298958', status: true, cookie: true, xfbml: true});
+                FB.init({appId: '417645798369157', status: true, cookie: true, xfbml: true});
                 //Resize the iframe when needed
                 FB.Canvas.setAutoResize();
             };
@@ -62,8 +62,8 @@
                 </div>
                 <div class="buch_start"></div>
                 <a href="" target="_blank" class="buch_link"></a>
-                <a href="mailto:facebook@luebbe.de?subject=Schräg%20verliebt" class="nav_element_bottom mitmachen"></a>
-                <a href="http://www.facebook.com/sharer/sharer.php?s=100&p[url]=http://f-bilandia.de/luebbe/schraeg_verliebt/weiche.php&p[images][0]=http://f-bilandia.de/luebbe/schraeg_verliebt/img/share.jpg&p[title]=Schr%C3%A4g%20verliebt&p[summary]=Schr%C3%A4g%20verliebt!%20Jetzt%20Fan%20werden%20und%20die%20skurrilsten%20Liebesgeschichten%20entdecken!" target="_blank" class="nav_element_bottom teilen_start"></a>
+                <a href="mailto:facebook@luebbe.de?subject=Shadows%20of%20Love" class="nav_element_bottom mitmachen"></a>
+                <a href="http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://f-bilandia.de/luebbe/shadowsoflove/index.php&p[images][0]=http://f-bilandia.de/luebbe/shadowsoflove/img/share.jpg&p[title]=Shadows%20of%20Love&p[summary]=Lasst%20euch%20entf%C3%BChren%20%E2%80%93%20zu%20den%20geheimnisvollen%20Ufern%20der%20Leidenschaft,%20mit%20der%20neuen%20E-Book-Serie%20%C2%BBShadows%20of%20Love%C2%AB%20%E2%80%93%20Jetzt%20gewinnen!" target="_blank" class="nav_element_bottom teilen_start"></a>
                 <div class="box" id="teilnahmebox">
                     <div id="close" class="closebutton"></div>
                     <p>
@@ -71,7 +71,7 @@
                                 Voraussetzung für die Teilnahme am Gewinnspiel
                             </u>
                         <br /><br />
-                            Voraussetzung für die Teilnahme am Gewinnspiel ist das Klicken auf den „Gefällt mir“-Button der Bastei Lübbe Facebook-Seite sowie eine E-Mail mit der richtigen Lösung an facebook@luebbe.de. Ausgeschlossen von der Teilnahme sind Mitarbeiter und Agenturen der Bastei Lübbe GmbH & Co. KG, sowie angeschlossener Unternehmen und deren Angehörige.
+                            Voraussetzung für die Teilnahme am Gewinnspiel ist das Klicken auf den „Gefällt mir“-Button der Digital Darlings- oder Bastei Lübbe Facebook-Seite sowie eine E-Mail mit der richtigen Lösung an facebook@luebbe.de. Ausgeschlossen von der Teilnahme sind Mitarbeiter und Agenturen der Bastei Lübbe AG, sowie angeschlossener Unternehmen und deren Angehörige.
                         <br />
                             Die Teilnahme ist nur natürlichen Personen gestattet. Eine Sammelteilnahme (insbesondere unter Einbeziehung hierauf ausgerichteter Unternehmen) ist ausdrücklich ausgeschlossen. Teilnehmer müssen persönlich mitspielen und dürfen sich keinerlei technischer Hilfsmittel bedienen. Besteht der Verdacht, dass doch Hilfsprogramme o. ä. benutzt worden sind, behält sich der Verlag vor, die Mitspieler von der Teilnahme auszuschließen.</p>
                         <p>
@@ -79,14 +79,25 @@
                                 Gewinne
                             </u>
                             <br /><br />
-                            Wir verlosen unter allen richtigen Einsendungen 10 Exemplare des Buches »Schräg verliebt«.
+                            Wir verlosen:
+                            <br /><br />
+                            1. Preis:
+                            Ein Verwöhnpaket für sinnliche Stunden zu zweit, bestehend aus
+                            - Erste Folge von »Shadows of Love«
+                            - Badepralinen
+                            - Handschellen
+                            - Body-Painting aus Schokolade
+                            <br />
+                            2.- 5. Preis: 
+                            Die erste Folge von »Shadows of Love«
+                            <br /><br />
                         </p>
                         <p>
                             <u>
                                 Ermittlung der Gewinner
                             </u>
                             <br /><br />
-                            Die Preise werden unter allen Einsendungen verlost. Das Gewinnspiel beginnt 02.12.2013 und endet am 31.01.2014. Die Gewinner werden nach Ablauf des Gewinnspiels per E-Mail benachrichtigt. Auf die Benachrichtigung  weisen wir auf der Chronik der Facebook-Seite von Bastei Lübbe hin. Zum Abruf des Gewinns geben die Gewinner per E-Mail an facebook@luebbe.de ihren vollständigen Namen sowie ihre Adresse bekannt.
+                            Die Preise werden unter allen Einsendungen verlost. Das Gewinnspiel beginnt am XX.01.2014 und endet am 28.02.2014. Die Gewinner werden nach Ablauf des Gewinnspiels per E-Mail benachrichtigt. Auf die Benachrichtigung  weisen wir auf der Chronik der Facebook-Seite von Digital Darlings hin. Zum Abruf des Gewinns geben die Gewinner per E-Mail an facebook@luebbe.de ihren vollständigen Namen sowie ihre Adresse bekannt.
                         </p>
                         <p>
                             <u>
@@ -140,7 +151,7 @@
         <script type="text/javascript">
             window.fbAsyncInit = function() {
                 //Your app details here
-                FB.init({appId: '604049396298958', status: true, cookie: true, xfbml: true});
+                FB.init({appId: '417645798369157', status: true, cookie: true, xfbml: true});
                 //Resize the iframe when needed
                 FB.Canvas.setAutoResize();
             };

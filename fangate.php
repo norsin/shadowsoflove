@@ -10,30 +10,30 @@ require_once 'facebook.php';
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="viewport" content="width=device-width">
-        <title>Schräg verliebt</title>
-        <meta name="description" content="Schräg verliebt! Jetzt Fan werden und die skurrilsten Liebesgeschichten entdecken" />
+        <title>Shadows of Love</title>
+        <meta name="description" content="Shadows of Love - Jetzt Fan werden und ein Verwöhnpaket für sinnliche Stunden zu zweit gewinnen!" />
         <link rel="image_src" href="img/share.jpg">
-        <meta property="og:image" content="http://f-bilandia.de/luebbe/schraegverliebt/img/share.jpg"/>
-        <meta property="og:image:secure_url" content="https://f-bilandia.de/luebbe/schrageverliebt/img/share.jpg">
+        <meta property="og:image" content="http://f-bilandia.de/luebbe/shadowsoflove/img/share.jpg"/>
+        <meta property="og:image:secure_url" content="https://f-bilandia.de/luebbe/shadowsoflove/img/share.jpg">
         <meta property="og:image:type" content="image/jpg">
         <meta property="og:image:width" content="200">
         <meta property="og:image:height" content="200">
-        <meta property="og:title" content="Schräg verliebt">
-        <meta property="og:description" content="Schräg verliebt! Jetzt Fan werden und die skurrilsten Liebesgeschichten entdecken" >
-        <meta property="og:url" content="http://f-bilandia.de/luebbe/schraeg_verliebt/weiche.php"/>
+        <meta property="og:title" content="Shadows of Love"/>
+        <meta property="og:description" content="Lasst euch entführen – zu den geheimnisvollen Ufern der Leidenschaft, mit der neuen E-Book-Serie „Shadows of Love“ – Jetzt gewinnen!" />
+        <meta property="og:url" content="http://www.f-bilandia.de/luebbe/shadowsoflove/index.php"/>
         <link rel="stylesheet" href="main.css">
         <script type="text/javascript">
             if (top == self) 
             { 
-                top.location = "https://www.facebook.com/BasteiLuebbe/app_604049396298958?ref=ts"; 
+                top.location = "https://www.facebook.com/BasteiLuebbe/app_417645798369157?ref=ts"; 
             }
         </script>
         </head> 
         
      <?php
         // Create our Application instance.
-        $facebook = new Facebook( array('appId' => '604049396298958',
-        'secret' => 'c7db20e3c5dcf9f302bffde63a742285', 'cookie' => true, ));
+        $facebook = new Facebook( array('appId' => '417645798369157',
+        'secret' => '232420f2a49e3fb57ba8b9d911b8f219', 'cookie' => true, ));
         $signed_request = $facebook -> getSignedRequest();
         $like_status = $signed_request["page"]["liked"];
         if ($like_status == "1") {
@@ -45,7 +45,7 @@ require_once 'facebook.php';
         <script type="text/javascript">
             window.fbAsyncInit = function() {
                 //Your app details here
-                FB.init({appId: '604049396298958', status: true, cookie: true, xfbml: true});
+                FB.init({appId: '417645798369157', status: true, cookie: true, xfbml: true});
                 //Resize the iframe when needed
                 FB.Canvas.setAutoResize();
             };
@@ -77,7 +77,7 @@ require_once 'facebook.php';
         <script type="text/javascript">
             window.fbAsyncInit = function() {
                 //Your app details here
-                FB.init({appId: '604049396298958', status: true, cookie: true, xfbml: true});
+                FB.init({appId: '417645798369157', status: true, cookie: true, xfbml: true});
                 //Resize the iframe when needed
                 FB.Canvas.setAutoResize();
             };
