@@ -1,0 +1,218 @@
+body {
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+	cursor: pointer;
+	outline: none;
+}
+
+.wrapper {
+	background-repeat: no-repeat;
+	width: 640px;
+	height: 1320px;
+}
+
+.start {
+	background: url(../img/mobile/background_gewinnspiel.jpg) no-repeat;
+}
+
+.app {
+	background: url(../img/mobile/background_app.jpg) no-repeat;
+}
+
+.autor {
+	background: url(../img/mobile/background_autor.jpg) no-repeat;
+	width: 640px;
+	height: 1069px;
+}
+
+.top {
+	margin-top: 40px;
+	width: 640px;
+	height: 155px;
+	margin: 0px;
+	bottom: 0px;
+	left: 0px;
+	position: fixed;
+	z-index: 1000;
+	background: #36376D;
+}
+
+.bottom {
+	top: 935px;
+	width: 730px;
+}
+
+.nav_element {
+	position: absolute;
+}
+
+.left {
+	background: url(../img/mobile/nav_gewinnspiel.png) 0px 0px no-repeat;
+	height: 140px;
+	width: 220px;
+	top: 10px;
+	left: 10px;
+}
+
+.active_nav_gs {
+	background-position: 0px -178px;
+}
+
+.middle {
+	background: url(../img/mobile/nav_app.png) no-repeat;
+	background-position: 0px 13px;
+	height: 140px;
+	width: 154px;
+	left: 235px;
+	top: 6px;
+}
+
+.active_nav_s {
+	background-position: 0px -132.1px;
+}
+
+.right {
+	background: url(../img/mobile/nav_autor.png) no-repeat;
+	background-position: 0px -32px;
+	height: 140px;
+	width: 254px;
+	left: 368px;
+	top: 9px;
+}
+
+.active_nav_ve {
+	background-position: 0px -210px;
+}
+
+.inactive_nav_gewinnspiel {
+	background-position: 0px -7px;
+	height: 97px;
+}
+
+.nav_element_bottom {
+	position: absolute;
+}
+
+.mitmachen {
+	background: url(../img/mobile/button_mitmachen.png) no-repeat;
+	height: 65px;
+	width: 285px;
+	left: 121px;
+	top: 992px;
+}
+
+.mitmachen:hover {
+}
+
+.teilen_start {
+	background: url(../img/mobile/button_teilen.png) no-repeat;
+	height: 71px;
+	width: 154px;
+	left: 364px;
+	top: 993px;
+}
+
+.teilen_app {
+	background: url(../img/mobile/button_teilen.png) no-repeat;
+	height: 62px;
+	width: 149px;
+	left: 233px;
+	top: 996px;
+}
+
+.teilen_autor {
+	background: url(../img/mobile/button_teilen.png) no-repeat;
+	height: 84px;
+	width: 173px;
+	left: 251px;
+	top: 746px;
+}
+
+.box {
+	width: 730px;
+	margin: 0px 40px;
+	position: absolute;
+}
+
+.links_links {
+	position: absolute;
+	width: 225px;
+	height: 160px;
+	top: 265px;
+	display: inline-block;
+	left: 360px;
+}
+
+.link_button01 {
+	background: url(../img/mobile/button01.png) no-repeat;
+	position: absolute;
+	top: 354px;
+	left: -260px;
+	height: 37px;
+	width: 119px;
+	float: left;
+	text-align: left;
+}
+
+.link_button02 {
+	background: url(../img/mobile/button02.png) no-repeat;
+	position: absolute;
+	top: 382px;
+	left: -260px;
+	height: 52px;
+	width: 125px;
+	float: left;
+	text-align: left;
+	margin: 27px 0px;
+}
+
+.link_button03 {
+	background: url(../img/mobile/button03.png) no-repeat;
+	position: absolute;
+	top: 470px;
+	left: -262px;
+	height: 48px;
+	width: 124px;
+	float: left;
+	text-align: left;
+	margin-left: 3px;
+}
+
+
+#teilnahme {
+	font-family: Arial;
+	text-decoration: underline;
+	position: absolute;
+	color: #fff!important;
+	font-size: 77%;
+	top: 1130px;
+	text-align: center;
+	width: 640px;
+	cursor: pointer;
+	background: transparent;
+}
+
+#teilnahmebox {
+       margin: 40px;
+       z-index: 1200;
+       opacity: 0.8;
+       color: white;
+       font-size: 90%;
+       padding: 5px;
+       width: 548px;
+       display: none;
+       background: black;
+}
+
+.close {
+       text-decoration: underline;
+       cursor: pointer;
+}
+
+.ausschluss {
+	display: none;
+}
+
