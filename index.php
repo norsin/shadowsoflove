@@ -62,7 +62,7 @@
                 <div class="buch_start"></div>
                 <a href="" target="_blank" class="buch_link"></a>
                 <a href="mailto:facebook@luebbe.de?subject=Shadows%20of%20Love" class="nav_element_bottom mitmachen"></a>
-                <a href="http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://f-bilandia.de/luebbe/shadowsoflove/index.php&p[images][0]=http://f-bilandia.de/luebbe/shadowsoflove/img/share.jpg&p[title]=Shadows%20of%20Love&p[summary]=Lasst%20euch%20entf%C3%BChren%20%E2%80%93%20zu%20den%20geheimnisvollen%20Ufern%20der%20Leidenschaft,%20mit%20der%20neuen%20E-Book-Serie%20%C2%BBShadows%20of%20Love%C2%AB%20%E2%80%93%20Jetzt%20gewinnen!" target="_blank" class="nav_element_bottom teilen_start"></a>
+                <a href="http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://f-bilandia.de/luebbe/shadowsoflove/weiche.php[images][0]=http://f-bilandia.de/luebbe/shadowsoflove/img/share.jpg&p[title]=Shadows%20of%20Love&p[summary]=Lasst%20euch%20entf%C3%BChren%20%E2%80%93%20zu%20den%20geheimnisvollen%20Ufern%20der%20Leidenschaft,%20mit%20der%20neuen%20E-Book-Serie%20%C2%BBShadows%20of%20Love%C2%AB%20%E2%80%93%20Jetzt%20gewinnen!" target="_blank" class="nav_element_bottom teilen_start"></a>
                 <div class="box" id="teilnahmebox">
                    <p><div class="close">Fenster schließen</div></p>
                     <p>
