@@ -24,7 +24,7 @@
 3/?et_cid=71&et_lid=377913" target="_blank"></a>
                 <a class="teilen_buch" href="http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://f-bilandia.de/luebbe/shadowsoflove/index.php&p[images][0]=http://f-bilandia.de/luebbe/shadowsoflove/img/share.jpg&p[title]=Shadows%20of%20Love&p[summary]=Lasst%20euch%20entf%C3%BChren%20%E2%80%93%20zu%20den%20geheimnisvollen%20Ufern%20der%20Leidenschaft,%20mit%20der%20neuen%20E-Book-Serie%20%C2%BBShadows%20of%20Love%C2%AB%20%E2%80%93%20Jetzt%20gewinnen!" target="_blank"></a>
                 <div class="box" id="teilnahmebox">
-                    <div id="close" class="closebutton"></div>
+			<p><div class="close">Fenster schließen</div></p>
                     <p>
                             <u>
                                 Voraussetzung für die Teilnahme am Gewinnspiel
@@ -82,8 +82,8 @@
                             <br /><br />
                             Der Rechtsweg ist ausgeschlossen. Veranstalter des Gewinnspiels ist allein die Bastei Lübbe AG. Das Gewinnspiel steht in keiner Verbindung zu Facebook und wird in keiner Weise von Facebook gesponsert, unterstützt oder organisiert. Mit der Teilnahme am Gewinnspiel akzeptieren die Teilnehmer die vorstehenden Bedingungen.
                         </p>
-                        <p><div class="close" id="close2">Fenster schließen</div></p>
-                </div>
+			<p><div class="close">Fenster schließen</div></p>
+		</div>
                 <div class="box ausschluss">
                     <span style="margin-top: 10px;"> 
                         Veranstalter des Gewinnspiels ist allein die Bastei Lübbe AG. Das Gewinnspiel steht in keiner Verbindung zu Facebook und wird in keiner Weise von Facebook gesponsert, unterstützt oder organisiert. Das Gewinnspiel wird durch die bilandia GmbH ausgeführt.
@@ -96,13 +96,9 @@
             $('#teilnahmebox').show('clip');
         });
 
-        $('#close').click(function() {
+        $('.close').click(function() {
             $('#teilnahmebox').hide('clip');
         });
-
-        $('#close2').click(function() {
-            $('#teilnahmebox').hide('clip');
-        });
-        </script>
+       </script>
     </body>
 </html>

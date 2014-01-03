@@ -200,6 +200,15 @@ a {
 .close {
 	text-decoration: underline;
 	cursor: pointer;
+	background: #eee;
+	width: auto;
+	float: right;
+	color: #333;
+	text-decoration: none;
+	padding: 3px 5px;
+	border-radius: 5px;
+	font-weight: bolder;
+	margin: 5px;
 }
 
 .ausschluss {
