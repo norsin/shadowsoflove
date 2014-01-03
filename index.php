@@ -23,6 +23,11 @@
         <link rel="stylesheet" type="text/css" media="screen" href="css/main.css">
         <script type="text/javascript" src="js/vendor/jquery-1.8.2.min.js"></script>
         <script type="text/javascript" src="js/vendor/jquery-ui-1.10.3.min.js"></script>
+	<script type="text/javascript">
+		if (top == self) {
+			top.location = "https://www.facebook.com/BasteiLuebbe/app_417645798369157?ref=ts";
+		}
+	</script>
     </head>
     <body>
         <?php
