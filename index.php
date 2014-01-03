@@ -21,7 +21,6 @@
         <meta property="og:description" content="Lasst euch entführen – zu den geheimnisvollen Ufern der Leidenschaft, mit der neuen E-Book-Serie „Shadows of Love“ – Jetzt gewinnen!" />
         <meta property="og:url" content="http://www.f-bilandia.de/luebbe/shadowsoflove/index.php"/>
         <link rel="stylesheet" type="text/css" media="screen and (min-width: 801px)" href="css/main.css">
-        <link rel="stylesheet" type="text/css" media="screen and (max-width: 800px)" href="css/mobile.css">
         <script type="text/javascript" src="js/vendor/jquery-1.8.2.min.js"></script>
         <script type="text/javascript" src="js/vendor/jquery-ui-1.10.3.min.js"></script>
     </head>
