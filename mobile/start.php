@@ -27,8 +27,9 @@
                     <img class="bookCover" src="images/bookcover.png">
 		    <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at nisi id augue suscipit sagittis tincidunt non tellus. Suspendisse ac arcu eu nibh placerat molestie eu nec nisl. Nunc vitae mauris turpis. Etiam ut auctor magna. Quisque feugiat turpis lorem, ut feugiat nunc bibendum vitae. Praesent consectetur interdum massa eu ultricies. Suspendisse potenti. In hac habitasse platea dictumst</p>
                     <div class="btnRow">
-                        <a href="#" target="_blank" class="leseprobe button fullWidth">Leseprobe</a>
-                        <a href="#" target="_blank" class="mehr button fullWidth">Mehr zu &quot;Shadows of Love&quot;</a>
+                        <a href="../Leseprobe.pdf" target="_blank" class="leseprobe button fullWidth">Leseprobe</a>
+			<a href="http://www.luebbe.de/Digital/Belletristik/Details/Id/978-3-8387-4790-
+ 24 3/?et_cid=71&et_lid=377913" target="_blank" class="mehr button fullWidth">Mehr zu &quot;Shadows of Love&quot;</a>
 			<a href="#" target="_blank" class="back button fullWidth">Zur&uuml;ck zu Facebook</a>
                     </div>
                 </div>
