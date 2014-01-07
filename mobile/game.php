@@ -25,7 +25,7 @@
                 </div>
                 <div class="content">
 		    <p class="text">In unserem Gewinnspiel verlosen wir ein Verwöhnpaket für sinnliche Stunden zu zweit inkl. der ersten Folge von „Shadows of Love“. Dafür möchten wir von euch wissen:</p>
-            <p class="text">Wie heißen die beiden Hauptpersonen in der ersten Folge von „Shadows of Love“?</p>
+            <p class="text"><strong>Wie heißen die beiden Hauptpersonen in der ersten Folge von „Shadows of Love“?</strong></p>
             <p class="text">Schickt uns die richtige Lösung per E-Mail und dem Betreff „Shadows of Love“ bis zum 28.02.2014 an gewinnspiel@luebbe.de. Bitte gebt euren Namen und eure Postadresse an.</p>
                     <div class="btnRow">
                         <a href="mailto:gewinnspiel@luebbe.de?subject=Shadows%20of%20Love" class="mitmachen button fullWidth">Mitmachen</a>

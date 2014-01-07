@@ -186,7 +186,7 @@ a {
 }
 
 #teilnahmebox {
-	margin: 40px;
+	margin: 37px;
 	z-index: 300;
 	opacity: 1.1;
 	color: white;
@@ -208,7 +208,7 @@ a {
 	padding: 3px 5px;
 	border-radius: 5px;
 	font-weight: bolder;
-	margin: 5px;
+	margin: 0px;
 }
 
 .ausschluss {
