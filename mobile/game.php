@@ -35,7 +35,7 @@
 			            <a href="https://www.facebook.com/BasteiLuebbe" target="_blank" class="back button fullWidth">Zur&uuml;ck zu Facebook</a>
                     </div>
                 </div>
-<div class="box" id="teilnahmebox">
+        <div class="box" id="teilnahmebox">
                     <div id="close" class="closeBtn">x</div>
                     <p>
                             <u>
@@ -101,6 +101,7 @@
                 
             </div>
             <div id="teilnahme">Teilnahmebedingungen</div>
-              
+  
+	</div> 
 	</body>
 </html>
