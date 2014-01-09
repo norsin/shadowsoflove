@@ -28,9 +28,8 @@
 		    <p class="text">Raumausstatterin Mia Ferris erhält vom reichsten Junggesellen Englands, dem Earl of Lindsay, das Angebot, einige Räume in seinem Schloss umzugestalten. Voller Ehrgeiz und auch aus Neugierde auf den Hausherrn nimmt sie den Auftrag an - nur der Geheimhaltungsvertrag, den sie vorab unterzeichnen muss, macht sie stutzig. Was hat Nathan Sterling zu verbergen?</p>
                     <div class="btnRow">
                         <a href="../Leseprobe.pdf" target="_blank" class="leseprobe button fullWidth">Leseprobe</a>
-			<a href="http://www.luebbe.de/Digital/Belletristik/Details/Id/978-3-8387-4790-
- 24 3/?et_cid=71&et_lid=377913" target="_blank" class="mehr button fullWidth">Mehr zu &quot;Shadows of Love&quot;</a>
-			<a href="https://www.facebook.com/BasteiLuebbe" target="_blank" class="back button fullWidth">Zur&uuml;ck zu Facebook</a>
+			<a href="http://www.luebbe.de/Digital/Belletristik/Details/Id/978-3-8387-4790-3/?et_cid=71&et_lid=377913" target="_blank" class="mehr button fullWidth">Mehr zu &quot;Shadows of Love&quot;</a>
+			<a href="https://www.facebook.com/basteientertainment" target="_blank" class="back button fullWidth">Zur&uuml;ck zu Facebook</a>
                     </div>
                 </div>
 

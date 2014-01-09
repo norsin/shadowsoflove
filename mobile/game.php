@@ -24,7 +24,7 @@
             <div class="wrapper">
                 <div class="header">
                     <h1 class="heading">Shadows of Love</h1>
-                    <a href="start.php" class="losBtn button">Zu ersten Folge</a>
+                    <a href="start.php" class="losBtn button">Zur ersten Folge</a>
                 </div>
                 <div class="content">
 		    <p class="text">In unserem Gewinnspiel verlosen wir ein Verwöhnpaket für sinnliche Stunden zu zweit inkl. der ersten Folge von „Shadows of Love“. Dafür möchten wir von euch wissen:</p>
@@ -32,7 +32,7 @@
             <p class="text">Schickt uns die richtige Lösung per E-Mail und dem Betreff „Shadows of Love“ bis zum 28.02.2014 an gewinnspiel@luebbe.de. Bitte gebt euren Namen und eure Postadresse an.</p>
                     <div class="btnRow">
                         <a href="mailto:gewinnspiel@luebbe.de?subject=Shadows%20of%20Love" class="mitmachen button fullWidth">Mitmachen</a>
-			            <a href="https://www.facebook.com/BasteiLuebbe" target="_blank" class="back button fullWidth">Zur&uuml;ck zu Facebook</a>
+			            <a href="https://www.facebook.com/basteientertainment" target="_blank" class="back button fullWidth">Zur&uuml;ck zu Facebook</a>
                     </div>
                 </div>
         <div class="box" id="teilnahmebox">
@@ -43,7 +43,7 @@
 
                             </u>
                         <br /><br />
-                            Voraussetzung für die Teilnahme am Gewinnspiel ist das Klicken auf den „Gefällt mir“-Button der Digital Darlings- oder Bastei Lübbe Facebook-Seite sowie eine E-Mail mit der richtigen Lösung an facebook@luebbe.de. Ausgeschlossen von der Teilnahme sind Mitarbeiter und Agenturen der Bastei Lübbe AG, sowie angeschlossener Unternehmen und deren Angehörige. 
+                            Voraussetzung für die Teilnahme am Gewinnspiel ist das Klicken auf den „Gefällt mir“-Button der Bastei Entertainment- oder Bastei Lübbe Facebook-Seite sowie eine E-Mail mit der richtigen Lösung an gewinnspiel@luebbe.de. Ausgeschlossen von der Teilnahme sind Mitarbeiter und Agenturen der Bastei Lübbe AG, sowie angeschlossener Unternehmen und deren Angehörige. 
                         <br />
                             Die Teilnahme ist nur natürlichen Personen gestattet. Eine Sammelteilnahme (insbesondere unter Einbeziehung hierauf ausgerichteter Unternehmen) ist ausdrücklich ausgeschlossen. Teilnehmer müssen persönlich mitspielen und dürfen sich keinerlei technischer Hilfsmittel bedienen. Besteht der Verdacht, dass doch Hilfsprogramme o. ä. benutzt worden sind, behält sich der Verlag vor, die Mitspieler von der Teilnahme auszuschließen.</p>
                         <p>
@@ -69,7 +69,7 @@
                                 Ermittlung der Gewinner
                             </u>
                             <br /><br />
-                            Die Preise werden unter allen Einsendungen verlost. Das Gewinnspiel beginnt am XX.01.2014 und endet am 28.02.2014. Die Gewinner werden nach Ablauf des Gewinnspiels per E-Mail benachrichtigt. Auf die Benachrichtigung  weisen wir auf der Chronik der Facebook-Seite von Digital Darlings hin. Zum Abruf des Gewinns geben die Gewinner per E-Mail an facebook@luebbe.de ihren vollständigen Namen sowie ihre Adresse bekannt.
+                            Die Preise werden unter allen Einsendungen verlost. Das Gewinnspiel beginnt am 20.01.2014 und endet am 28.02.2014. Die Gewinner werden nach Ablauf des Gewinnspiels per E-Mail benachrichtigt. Auf die Benachrichtigung  weisen wir auf der Chronik der Facebook-Seite von Bastei Entertainment  hin. Zum Abruf des Gewinns geben die Gewinner per E-Mail an gewinnspiel@luebbe.de ihren vollständigen Namen sowie ihre Adresse bekannt.
                         </p>
                         <p>
                             <u>
