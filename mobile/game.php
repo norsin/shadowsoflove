@@ -33,8 +33,6 @@
                     <div class="btnRow">
                         <a href="mailto:gewinnspiel@luebbe.de?subject=Shadows%20of%20Love" class="mitmachen button fullWidth">Mitmachen</a>
 			            <a href="https://www.facebook.com/basteientertainment" target="_blank" class="back button fullWidth">Zur&uuml;ck zu Facebook</a>
-                    </div>
-                </div>
         <div class="box" id="teilnahmebox">
                     <div id="close" class="closeBtn">x</div>
                     <p>
@@ -101,7 +99,8 @@
                 
             </div>
             <div id="teilnahme">Teilnahmebedingungen</div>
-  
+                </div>
+                </div>
 	</div> 
 	</body>
 </html>
