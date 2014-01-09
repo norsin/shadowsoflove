@@ -197,8 +197,10 @@ font-weight: bolder;
 
     /* Note: Design for a width of 480px */
 
-    @media only screen and (min-width: 480px) and (max-width: 840px) {
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
         .wrapper {
+	    width: 60%;
+	    margin-left: 20%;
             min-height: 800px;
         }
     }
@@ -209,8 +211,10 @@ font-weight: bolder;
 
     /* Note: Design for a width of 480px */
 
-    @media only screen and (min-width: 767px) and (max-width: 1024px) {
+    @media only screen and (min-width: 767px) {
         .wrapper {
+	    width: 50%;
+	    margin-left: 25%;
             min-height: 1000px;
         }
     }
