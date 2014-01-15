@@ -1,0 +1,253 @@
+body {
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+	cursor: pointer;
+	outline: none;
+}
+
+.wrapper {
+	background-repeat: no-repeat;
+	width: 810px;
+	height: 1300px;
+}
+
+.start {
+	background: url(../img/background_gewinnspiel.jpg) no-repeat;
+}
+
+.buch {
+	background: url(../img/background_buch.jpg) no-repeat;
+}
+
+.fangate {
+	background: url(../img/fangate.jpg) no-repeat;
+	width: 810px;
+	height: 1000px;
+}
+
+.nav {
+	height: 100px;
+	margin: 0px 10px;
+	position: absolute;
+}
+
+.top {
+	margin-top: 26px;
+	margin-left: 172px;
+	width: 610px;
+}
+
+.bottom {
+	top: 935px;
+	width: 730px;
+}
+
+.nav_element {
+	position: absolute;
+}
+
+.left {
+	background: url(../img/nav_gewinnspiel.png) no-repeat;
+	width: 214px;
+	height: 60px;
+	top: -6px;
+	left: -50px;
+}
+
+.left:hover,
+.active_nav_gs {
+	background-position: 0px -70px;
+	height: 60px;
+}
+
+
+.right {
+	background: url(../img/nav_buch.png) no-repeat;
+	background-position: -20px -25px;
+	height: 44px;
+	width: 270px;
+	left: 285px;
+	top: 5px;
+}
+
+.right:hover,
+.active_nav_autor,
+.active_nav_ve {
+	background-position: -20px -95px;
+}
+
+
+.active_nav_s {
+	background-position: 0px -136px;
+}
+
+.inactive_nav_gewinnspiel {
+	background-position: 0px -7px;
+	height: 97px;
+}
+
+.nav_element_bottom {
+	position: absolute;
+}
+
+.mitmachen {
+	background: url(../img/button_mitmachen.png) no-repeat;
+	height: 65px;
+	width: 200px;
+	left: 116px;
+	top: 953px;
+}
+
+.mitmachen:hover {
+}
+
+.teilen_start {
+	background: url(../img/button_teilen.png) no-repeat;
+	height: 71px;
+	width: 154px;
+	left: 321px;
+	top: 952px;
+}
+
+.teilen_buch {
+	background: url(../img/button_teilen.png) no-repeat;
+	position: absolute;
+	height: 50px;
+	width: 101px;
+	left: 647px;
+	top: 309px;
+}
+
+.box {
+	width: 730px;
+	margin: 0px 40px;
+	position: absolute;
+}
+
+.links_links {
+	position: absolute;
+	width: 225px;
+	height: 160px;
+	top: 265px;
+	display: inline-block;
+	left: 360px;
+}
+
+.link_button01 {
+	background: url(../img/button_01.png) no-repeat;
+	position: absolute;
+	top: 381px;
+	left: 81px;
+	height: 37px;
+	width: 119px;
+	float: left;
+	text-align: left;
+}
+
+.link_button02 {
+	background: url(../img/button_02.png) no-repeat;
+	position: absolute;
+	top: 354px;
+	left: 212px;
+	height: 36px;
+	width: 96px;
+	float: left;
+	text-align: left;
+	margin: 27px 0px;
+}
+
+.link_button03 {
+	background: url(../img/button_03.png) no-repeat;
+	position: absolute;
+	top: 428px;
+	left: 149px;
+	height: 36px;
+	width: 106px;
+	float: left;
+	text-align: left;
+	margin-left: 3px;
+}
+
+#teilnahme {
+	font-family: Arial;
+	text-decoration: underline;
+	position: absolute;
+	color: #333333!important;
+	font-size: 77%;
+	top: 1074px;
+	text-align: center;
+	width: 810px;
+	cursor: pointer;
+	margin-top: 70px;
+	background: white;
+}
+
+#teilnahmebox {
+	margin: 37px;
+	z-index: 300;
+	opacity: 1.1;
+	color: white;
+	font-size: 90%;
+	padding: 5px;
+	width: 720px;
+	display: none;
+	background: black;
+}
+
+.close {
+	text-decoration: underline;
+	cursor: pointer;
+	background: #eee;
+	width: auto;
+	float: right;
+	color: #333;
+	text-decoration: none;
+	padding: 3px 5px;
+	border-radius: 5px;
+	font-weight: bolder;
+	margin: 0px;
+}
+
+.ausschluss {
+	font-family: Arial;
+	top: 1026px;
+	font-size: 75%;
+	background: #FFFFFF;
+	margin: 0;
+	padding: 10px 40px;
+	height: 80px;
+	color: #333333!important;
+	text-align: center;
+	margin-top: 70px;
+}
+
+.closebutton {
+	background: url(../img/close.png) no-repeat;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	width: 30px;
+	height: 30px;
+	cursor: pointer;
+}
+
+.leseprobe {
+	background: url(../img/button_leseprobe.png) no-repeat;
+	height: 56px;
+	width: 170px;
+	left: 65px;
+	top: 310px;
+	position: absolute;
+}
+
+.buch_link {
+	background: url(../img/button_infos.png) no-repeat;
+	height: 71px;
+	width: 335px;
+	left: 270px;
+	top: 302px;;
+	position: absolute;
+}
