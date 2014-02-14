@@ -36,7 +36,7 @@ a img  {
 
 a:link,
 a:visited {
-    color: #444;
+    color: #ebb845;
     text-decoration: underline;
 }
 
@@ -138,6 +138,17 @@ h1.heading {
     float: left;
     font-size: 1.5em;
     margin-top: 10px;
+}
+
+#impressum {
+text-decoration: underline;
+color: #ebb845!important;
+font-size: 100%;
+text-align: center;
+width: 100%;
+float: left;
+cursor: pointer;
+margin: 0;
 }
 
 #teilnahme {
