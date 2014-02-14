@@ -6,6 +6,7 @@ a {
 	text-decoration: none;
 	cursor: pointer;
 	outline: none;
+	color: #333333;
 }
 
 .wrapper {
@@ -169,6 +170,19 @@ a {
 	float: left;
 	text-align: left;
 	margin-left: 3px;
+}
+
+#impressum {
+	font-family: Arial;
+	text-decoration: underline;
+	position: absolute;
+	color: #333333!important;
+	font-size: 77%;
+	top: 1165px;
+	text-align: center;
+	width: 810px;
+	cursor: pointer;
+	background: white;
 }
 
 #teilnahme {
